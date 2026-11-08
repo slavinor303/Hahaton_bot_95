@@ -1,0 +1,8 @@
+maxapi[webhook]==1.2.3
+gigachat==0.2.3
+pydantic==2.13.5
+python-dotenv==1.2.4
+reportlab==5.0.1
+sympy==1.14.0
+matplotlib==3.11.2
+pillow==13.0.0
